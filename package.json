@@ -1,0 +1,26 @@
+{
+  "name": "prototypenodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node ./src/app.js",
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haidergithub/ProtoTypeNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haidergithub/ProtoTypeNodejs/issues"
+  },
+  "homepage": "https://github.com/haidergithub/ProtoTypeNodejs#readme",
+  "devDependencies": {
+    "jest-cli": "^26.1.0"
+  }
+}
